@@ -12,7 +12,6 @@
 
 require 'securerandom'
 
-
 # Public: Generate a secure token randomly.
 #
 # Returns the generated token.
